@@ -1,0 +1,1 @@
+This repository contains an analysis of aluminum stock prices, using monthly data from the London Metal Exchange (LME) spanning 1990 to 2022. I aim to explore machine learning forecasting techniques to predict the trends of aluminum prices—a commodity central to industries such as automotive, construction, and electronics, known for its significant price volatility.
